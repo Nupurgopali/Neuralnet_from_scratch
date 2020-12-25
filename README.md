@@ -13,5 +13,5 @@ The following steps are implemented to build a neural net:
 <li>Define predict function</li>
 <br>
 
-<p>Check nn_from_scratch.ipynb file to get a more detailed explaination about how a neural net is implemented.</p>
+<p>Check <strong>nn_from_scratch.ipynb</strong> file to get a more detailed explaination about how a neural net is implemented.</p>
 <p>I have even attached few links that can help you understand the implementation of neural network in much greater detail.</p>
